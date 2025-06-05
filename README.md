@@ -13,7 +13,10 @@
 
 **/ skills**<br>
 
-`C++`, `C`, `HTML`, `CSS`, `WORDPRESS`, `ADOBE SUITE`, `MICROSOFT SUITE`.
+`C++`, `C`, `HTML`, `CSS`, `ARCGIS`, `FIGMA`, `WORDPRESS`, `ADOBE CREATIVE SUITE`, `MICROSOFT SUITE`.
+
+**/ relevant coursework**<br>
+`Algorithms`, `Object-Oriented Programming`, `Data Structures`.
 
 **/ interested** <br>
 `React`, `PHP`, `PYTHON`.
