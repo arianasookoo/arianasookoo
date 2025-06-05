@@ -1,6 +1,6 @@
 <h2 align='center'><samp><strong>/ hello, world! i am ariana sookoo</strong></samp></h2>
 
-![til](https://media.giphy.com/media/VPEw7XzubGbHIUnwPi/giphy.gif) 
+<img src="https://media.giphy.com/media/VPEw7XzubGbHIUnwPi/giphy.gif" width='15%' height='15%' align='center'/>
 
 <p align='center'> 👩‍💻 frontend developer | graphic designer</p>
 
