@@ -6,7 +6,7 @@
 
 **/ get to know me**<br>
 
-<p align='left'>I'm an international student from Trinidad and Tobago, currently entering my junior year at Penn State University, where I'm pursuing a Bachelor's degree in Computer Science. Outside of coding in VS Code, I enjoy reading, graphic design, video editing, and working out.
+<p align='left'>I'm an international student from Trinidad and Tobago, currently entering my senior year at Penn State University, where I'm pursuing a Bachelor's degree in Computer Science. Outside of coding in VS Code, I enjoy reading, graphic design, video editing, and working out.
 
 My passion for a career in User Interface and User Experience Design is fueled by my interest in the intersection of technology and purpose-driven innovation. I believe the impact of any digital solution hinges on how intuitively and meaningfully it connects with its users. Without thoughtful delivery, even the most promising ideas can fall flat.
 
